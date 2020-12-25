@@ -12,7 +12,7 @@
     "mybatis"
   ],
   "dependencies": {
-    "mybatis-mapper": "https://gitee.com/undsky/mybatis-mapper.git",
+    "mybatis-mapper": "https://gitee.com/undsky/mybatis-mapper.git#v0.6.6",
     "sqlstring": "^2.3.2"
   },
   "devDependencies": {
