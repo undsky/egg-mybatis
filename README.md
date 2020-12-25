@@ -2,7 +2,7 @@
  * @Author: 姜彦汐
  * @Date: 2020-12-03 16:42:04
  * @LastEditors: 姜彦汐
- * @LastEditTime: 2020-12-25 09:59:02
+ * @LastEditTime: 2020-12-25 10:00:46
  * @Description: 
  * @Contact: jiangyanxi@live.com
  * @FilePath: /egg-mybatis/README.md
@@ -22,7 +22,7 @@ $ yarn add egg-mybatis
 ### 依赖的 egg 版本
 
 egg-mybatis 版本 | egg 2.x | egg 1.x
---- | ---
+--- | --- | ---
 1.x | 😁 | ❌
 
 ### 依赖的插件
