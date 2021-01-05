@@ -2,7 +2,7 @@
  * @Author: 姜彦汐
  * @Date: 2020-12-03 16:42:04
  * @LastEditors: 姜彦汐
- * @LastEditTime: 2020-12-25 10:00:46
+ * @LastEditTime: 2021-01-05 13:34:57
  * @Description: 
  * @Contact: jiangyanxi@live.com
  * @FilePath: /egg-mybatis/README.md
@@ -41,7 +41,7 @@ exports.mybatis = {
 
 ```js
 // {app_root}/config/config.default.js
-exports.mybatis = {
+config.mybatis = {
   mapperPath: path.join(appInfo.baseDir, 'mapper') // 映射文件路径
 };
 ```
