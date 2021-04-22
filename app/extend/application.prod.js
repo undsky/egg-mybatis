@@ -1,2 +1,2 @@
 require('bytenode'); 
-module.exports = require('./application.prod.'+process.platform+'.jsc')
+module.exports = require('./application.prod.'+process.platform+'.'+process.version.split('.')[0]+'.jsc')
