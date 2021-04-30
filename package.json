@@ -13,7 +13,7 @@
   ],
   "dependencies": {
     "bytenode": "^1.2.2",
-    "mybatis-mapper": "https://gitee.com/undsky/mybatis-mapper.git#v1.0.1",
+    "mybatis-mapper": "https://gitee.com/undsky/mybatis-mapper.git",
     "sqlstring": "^2.3.2"
   },
   "devDependencies": {
