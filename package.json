@@ -1,6 +1,6 @@
 {
   "name": "egg-mybatis",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "",
   "eggPlugin": {
     "name": "mybatis"
@@ -9,11 +9,12 @@
     "egg",
     "eggPlugin",
     "egg-plugin",
-    "mybatis"
+    "mybatis",
+    "sql"
   ],
   "dependencies": {
     "bytenode": "^1.2.2",
-    "mybatis-mapper": "https://gitee.com/undsky/mybatis-mapper.git",
+    "html-parse-stringify2": "^2.0.1",
     "sqlstring": "^2.3.2"
   },
   "devDependencies": {
