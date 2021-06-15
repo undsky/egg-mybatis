@@ -2,7 +2,7 @@
  * @Author: 姜彦汐
  * @Date: 2020-12-03 16:42:04
  * @LastEditors: 姜彦汐
- * @LastEditTime: 2021-04-22 10:26:28
+ * @LastEditTime: 2021-06-15 14:47:46
  * @Description: 
  * @Contact: jiangyanxi@live.com
  * @FilePath: /egg-mybatis/README.md
@@ -26,7 +26,7 @@ egg 2.x | egg 1.x
 
 ### 依赖的插件
 
-[mybatis-mapper](https://gitee.com/undsky/mybatis-mapper)
+[html-parse-stringify2](https://github.com/rayd/html-parse-stringify2)
 
 [sqlstring](https://github.com/mysqljs/sqlstring)
 
