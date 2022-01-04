@@ -1,13 +1,6 @@
-<!--
- * @Author: 姜彦汐
- * @Date: 2020-12-03 16:42:04
- * @LastEditors: 姜彦汐
- * @LastEditTime: 2021-06-15 14:47:46
- * @Description: 
- * @Contact: jiangyanxi@live.com
- * @FilePath: /egg-mybatis/README.md
--->
 # egg-mybatis
+
+> egg plugin for mybatis
 ## 安装
 
 ```bash
@@ -30,6 +23,8 @@ egg 2.x | egg 1.x
 
 [sqlstring](https://github.com/mysqljs/sqlstring)
 
+[mybatis-mapper](https://github.com/OldBlackJoe/mybatis-mapper)
+
 ## 开启插件
 
 ```js
@@ -45,9 +40,18 @@ exports.mybatis = {
 ```js
 // {app_root}/config/config.default.js
 config.mybatis = {
-
+        mapperPath: path.join(appInfo.baseDir, 'mapper'),
+        defaultPageSize: 10, // 默认分页条数
+        pageOffset: 1, // 分页偏移量
+        currentPageName: 'currentPage',
+        pageSizeName: 'pageSize'
 };
 ```
+
+## 示例
+
+## [点击查看更多开源项目 https://undsky.com/](https://undsky.com/)
+
 ## License
 
 [MIT](LICENSE)
