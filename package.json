@@ -1,6 +1,6 @@
 {
   "name": "egg-mybatis",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "egg plugin for mybatis",
   "eggPlugin": {
     "name": "mybatis"
@@ -41,8 +41,10 @@
   "files": [
     "app.js",
     "agent.js",
+    "index.js",
     "config",
-    "app"
+    "app",
+    "lib"
   ],
   "ci": {
     "version": "8, 10"
