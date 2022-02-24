@@ -1,7 +1,7 @@
 {
   "name": "egg-mybatis",
   "version": "1.0.1",
-  "description": "egg plugin for mybatis",
+  "description": "Egg plugin for mybatis",
   "eggPlugin": {
     "name": "mybatis"
   },

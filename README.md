@@ -1,6 +1,8 @@
 # egg-mybatis
 
-> egg plugin for mybatis
+> Egg plugin for mybatis
+
+
 ## 安装
 
 ```bash
